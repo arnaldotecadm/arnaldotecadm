@@ -11,6 +11,6 @@
 
   <br />
   
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=arnaldotecadm&"/>
+  <!--<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=arnaldotecadm&"/>-->
  
 </div>
