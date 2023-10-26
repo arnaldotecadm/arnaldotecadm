@@ -10,5 +10,6 @@
   <a href="https://www.linkedin.com/in/arnaldocicero/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
   <br />
- 
+
+ <!--<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=arnaldotecadm&"/>-->
 </div>
